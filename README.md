@@ -46,9 +46,3 @@ Understand customer purchase behavior and predict future revenue to inform reten
 1. Open and run `Data_Ingestion.ipynb` to load the dataset into SQLite.  
 2. Open and run `Customer_Lifetime_Value_Analysis.ipynb` to perform aggregation, modeling, visualization, and generate insights.  
 3. Review the tables and figures for top customers and overall CLV distribution.
-
-## Visualizations (optional)
-Include screenshots of key outputs for quick reference:  
-- Predicted purchases distribution  
-- 6-month CLV distribution  
-- Top customers table
